@@ -108,8 +108,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 Licença
 Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
-
-lua
-Copiar código
-
-Esse README segue uma estrutura clara e fornece informações úteis para os usuários do projeto. Ajuste conforme necessário!
